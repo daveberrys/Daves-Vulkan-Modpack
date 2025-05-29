@@ -2,7 +2,7 @@
 <img src="https://github.com/user-attachments/assets/20229b4f-d93c-45ba-b9fc-65f7fbddd969" width="200">
 
 <h1> Dave's Vulkan Modpack </h1>
-<p>> Just a performance and survival modpack I made for fun. </p>
+<p> Just a performance and survival modpack I made for fun. </p>
 
 <details>
   <summary>I need help!</summary>
