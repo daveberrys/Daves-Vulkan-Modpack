@@ -18,6 +18,9 @@
   <h2> My chunks keeps on reloading! </h2>
   <p> Try rejoining the game, F3 + T or relaunch the game. </p>
 
+  <h2> My falling blocks are weird... </h2>
+  <p> Possibly a issue with another mod. Will fix soon. </p>
+
   <h2> I have another issue thats not here! </h2>
   <p> Make a Issue in <a href="https://github.com/daveberrys/Daves-Vulkan-Modpack/issues">Here.</a> </p>
 </details>
