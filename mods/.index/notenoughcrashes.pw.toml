@@ -1,0 +1,16 @@
+filename = 'notenoughcrashes-fabric-4.4.8+1.21.5.jar'
+name = 'Not Enough Crashes'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '11a9c03a6332c639bddaca13ea6e8e90ac9b38adca7e0fd476d3507f2b8d795fb846931799775b8f0c6c13ceb9395df0c982bbd41e860220f069ed1dcf61a70f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/yM94ont6/versions/2QSGDvQF/notenoughcrashes-fabric-4.4.8%2B1.21.5.jar'
+
+[update.modrinth]
+mod-id = 'yM94ont6'
+version = '2QSGDvQF'

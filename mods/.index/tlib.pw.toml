@@ -1,0 +1,16 @@
+filename = 'tlib-1.2.1-1.21.5.jar'
+name = 'TLib'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e4fd1687aec910f4054dc108506f4f690920d104efb30fd89f7f7f162b3af7eb11ef449b937a67f5a94399a186519e17f76ccbfe4e0626d557391162eb84a174'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/sBn7rVvc/versions/FMmnFKYR/tlib-1.2.1-1.21.5.jar'
+
+[update.modrinth]
+mod-id = 'sBn7rVvc'
+version = 'FMmnFKYR'

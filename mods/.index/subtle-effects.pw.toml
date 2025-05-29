@@ -1,0 +1,16 @@
+filename = 'SubtleEffects-fabric-1.21.5-1.9.4-hotfix.1.jar'
+name = 'Subtle Effects'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd05cc0a91c6a7ab74fa7fa33973d836bc89f0edd918f38dd1173f06d06560678a08494cb4458682cad6671789a00cb54b07a80f36f8c6ffc59968e83d0a40da8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/4q8UOK1d/versions/J9hrPl1c/SubtleEffects-fabric-1.21.5-1.9.4-hotfix.1.jar'
+
+[update.modrinth]
+mod-id = '4q8UOK1d'
+version = 'J9hrPl1c'

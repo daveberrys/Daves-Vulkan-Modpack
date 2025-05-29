@@ -1,0 +1,16 @@
+filename = 'minihud-fabric-1.21.5-0.35.1.jar'
+name = 'MiniHUD'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'bb82156c339fa9c97ae891e05139c4550bf051376d1700cfc9282fd797bbb6cf8163bb05aa45fc6415a1b42df11240ae3e11839afcc1c2662951238604a3a5ee'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/UMxybHE8/versions/e2qHFX1u/minihud-fabric-1.21.5-0.35.1.jar'
+
+[update.modrinth]
+mod-id = 'UMxybHE8'
+version = 'e2qHFX1u'
